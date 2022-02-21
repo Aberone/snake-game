@@ -1,0 +1,11 @@
+release/block.o
+release/blockfood.o
+release/blockobstacle.o
+release/blocksnakebody.o
+release/blocksnakehead.o
+release/gamefield.o
+release/main.o
+release/mainwindow.o
+release/snake.o
+release/windingmanager.o
+release/moc_mainwindow.o
